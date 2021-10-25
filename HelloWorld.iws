@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="320730e7-5c5f-485c-86ff-5ec8d0fead3e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HelloWorld.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.ipr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HelloWorld.iws" beforeDir="false" afterPath="$PROJECT_DIR$/HelloWorld.iws" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
